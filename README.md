@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![npm](https://img.shields.io/npm/v/universal-utils)
+![npm downloads](https://img.shields.io/npm/dt/universal-utils)
+
+
 # Universal Utils
 
 A modern, lightweight, and modular utility library for JavaScript developers.  
@@ -144,4 +149,6 @@ universal-utils/
 --Expand currency symbols to cover all world currencies.
 
 ## License
-### MIT License
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
+
